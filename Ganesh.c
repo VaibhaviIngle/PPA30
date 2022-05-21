@@ -19,39 +19,3 @@ int main()      // Entry point function         Fom where the execution starts
 // gcc Ganesh.c -o Myexe
 // Myexe
 // Output : Jay Ganesh
-
-
-
-
-
-
-
-
-
-
-
-
-int no = 11;
-
-
-
-
-double d = 3.1245;
-
-
-
-
-char ch = 'M';
-
-
-
-
-
-
-
-
-
-
-
-
-
