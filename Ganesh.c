@@ -1,8 +1,4 @@
 
-
-
-
-
 #include<stdio.h>       // Header file inclusion
 // # Preprocessor directive symbol
 // include - Keyword
